@@ -1,0 +1,26 @@
+{
+  "anwser": [
+    {
+      "id": "",
+      "employeeId": "1",
+      "groupId": "1",
+      "anwserOn": "",
+      "anwser1": "1",
+      "anwser2": "",
+      "anwser3": "",
+      "anwser4": "",
+      "anwser5": ""
+    },
+    {
+      "employeeId": "29",
+      "groupId": "2",
+      "anwserOn": "2022-05-29T17:57:43.921Z",
+      "answer1": "2",
+      "answer2": "2",
+      "answer3": "3",
+      "answer4": "2",
+      "answer5": "2",
+      "id": "M7r8ZD-"
+    }
+  ]
+}
